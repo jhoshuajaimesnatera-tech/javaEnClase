@@ -5,7 +5,7 @@ public class AppJuegos {
 	public static void main(String[] args) {
 		//vamos a jugar al tres en raya
 		
-		TresEnRaya partida = new TresEnRaya("Edu", 'X', "Isa", 'O');
+		TresEnRayaMisery partida = new TresEnRayaMisery("Jhos", 'X', "Isa", 'O');
 		
 		partida.inicio();
 		
