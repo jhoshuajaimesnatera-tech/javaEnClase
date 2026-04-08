@@ -1,5 +1,7 @@
 package Interfaces.Recargable;
 
-public class Recargable {
+public interface Recargable {
 
+	void carga();
+	void obtenerNivelCarga(int nivel);
 }
