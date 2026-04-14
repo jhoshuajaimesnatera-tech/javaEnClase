@@ -1,8 +1,8 @@
 package SistemaValidacionArchivos;
 
-public class DocumentoOPDf extends Documento{
+public class DocumentoPDF extends Documento{
 
-	public DocumentoOPDf(long tamanio) {
+	public DocumentoPDF(long tamanio) {
 		super(tamanio);
 	}
 
